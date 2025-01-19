@@ -1,6 +1,6 @@
 # mx-sdk-js-extension-provider
 
-Signing provider for dApps: Maiar DeFi Wallet. 
+Signing provider for dApps: MultiversX DeFi Wallet. 
 
 Documentation is available on [docs.multiversx.com](https://docs.multiversx.com/sdk-and-tools/erdjs/erdjs-signing-providers/), while an integration example can be found [here](https://github.com/multiversx/mx-sdk-js-examples/tree/main/signing-providers).
 
